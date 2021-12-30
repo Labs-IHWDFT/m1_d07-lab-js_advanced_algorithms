@@ -35,7 +35,7 @@ In this exercise, we will implement two different abstract data types that are v
 ```shell
 $ git add .
 $ git commit -m "Solved lab"
-$ git push origin master
+$ git push origin main
 ```
 
 - Create a Pull Request so your TAs can check up your work.
